@@ -16,7 +16,7 @@ args = parser.parse_args()
 # variables
 urlTarget = "https://"+args.target
 filePath = args.file
-sessionVal = "session=1ognhJv0tUUyCu4iUVukcAbBY4ZrCcHt"
+sessionVal = "session="
 
 # update ports as necessary
 proxies = {
